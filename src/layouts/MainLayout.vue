@@ -172,6 +172,6 @@ export default defineComponent({
     margin-left: 20px;
   }
   .bold-text {
-    font-weight: bold;
-  }
+  font-weight: bold;
+}
 </style>
